@@ -1,0 +1,14 @@
+layout_spectrum: 0.9526004267390817
+typography_spectrum: 0.35319250146858394
+color:
+  brandStrength: 0.0962453403044492
+  lightness: 0.25358448061160743
+  saturation: 0.9036148653831333
+  rhythmicContrast: 0.16219105711206794
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: motaitalic
