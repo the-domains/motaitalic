@@ -6,9 +6,9 @@ color:
   saturation: 0.9036148653831333
   rhythmicContrast: 0.16219105711206794
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#242424'
+    - '#FDFDFD'
+    - '#46774D'
+    - '#C3C3C3'
+    - '#50A75A'
 name: motaitalic
