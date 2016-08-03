@@ -1,4 +1,3 @@
-layout_spectrum: 0.9526004267390817
 typography_spectrum: 0.35319250146858394
 color:
   brandStrength: 0.0962453403044492
@@ -11,5 +10,7 @@ color:
     - '#46774D'
     - '#C3C3C3'
     - '#50A75A'
+layout_spectrum: 0.9526004267390817
 name: motaitalic
 title: Mota Italic
+description: TYPEFOUNDRY
